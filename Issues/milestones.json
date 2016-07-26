@@ -1,0 +1,50 @@
+"ci-testing": {
+    "name": "",
+    "description": "",
+    "due date": "dd/mm/yyyy",
+    "live": "true"
+}
+
+"documentation": {
+    "name": "",
+    "description": "",
+    "due date": "dd/mm/yyyydd/mm/yyyy",
+    "live": "true"
+}
+
+
+"new-feature": {
+    "name": "new feature",
+    "description": "",
+    "due date": "dd/mm/yyyy",
+    "live": "true"
+}
+
+
+"new-feature-with-documentation": {
+    "name": "New Feature with Documentation",
+    "description": "",
+    "due date": "dd/mm/yyyydd/mm/yyyy",
+    "live": "true"
+}
+
+"npm": {
+    "name": "NPM",
+    "description": "",
+    "due date": "dd/mm/yyyy",
+    "live": "true"
+}
+
+"release-r1.00.00": {
+    "name": "Release R1.00.00",
+    "description": "",
+    "due date": "dd/mm/yyyy",
+    "live": "true"
+}
+
+"repo-start": {
+    "name": "Repository Start",
+    "description": "",
+    "due date": "dd/mm/yyyy",
+    "live": "false"
+}
