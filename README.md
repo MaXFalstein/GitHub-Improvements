@@ -20,7 +20,7 @@ Because of the above, I created this repository to store all of my suggestions.
 
 ## License
 
-Please see the [LICENSE file](https://github.com/MaXwellFalstein/GitHub-Improvements/tree/master/blob/LICENSE)
+Please see the [LICENSE file](https://github.com/MaXwellFalstein/GitHub-Improvements//blob/master/LICENSE)
 
 GitHub has complete access to the source files and the suggestion pages.
 
