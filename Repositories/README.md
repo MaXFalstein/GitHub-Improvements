@@ -12,6 +12,50 @@ This could be done with a JSON file in settings for all repositories.
 
 [An example JSON file is given here](https://github.com/MaXwellFalstein/GitHub-Improvements/blob/master/Repositories/repo-contrib-pic.json).
 
+#### Format
+
+    "user/repo-name": {
+        "default": "true",
+        "toggled": "true"
+    }
+
+    "user/repo-name": {
+        "default": "true",
+        "toggled": "false"
+    }
+
+    "user/repo-name": {
+        "default": "false",
+        "toggled": "true"
+    }
+
+    "user/repo-name": {
+        "default": "false",
+        "toggled": "false"
+    }
+
+    "organisation/repo-name": {
+        "default": "true",
+        "toggled": "true"
+    }
+
+#### Examples
+
+    "FalsteinInvestmentInc/Gist": {
+        "default": "true",
+        "toggled": "true"
+    }
+
+    "MaXSaxeDesign/Content-Delivery-Network": {
+        "default": "true",
+        "toggled": "true"
+    }
+
+    "MaXwellFalstein/Angular2.js": {
+        "default": "true",
+        "toggled": "true"
+    }
+
 ---
 
 ### ??
