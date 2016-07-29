@@ -69,5 +69,3 @@ GitHub.com repository top line would look like:
 
 
 ---
-
-&copy;
