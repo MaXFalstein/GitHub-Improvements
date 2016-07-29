@@ -24,7 +24,7 @@ GitHub.com repository top line would look like:
 
     | <> Code | (!) Issues | Gists | Pull Requests | Wiki | Pulse | Graphs | Settings |
 
-This works well with the next idea, [Labels and Milestones](https://github.com/MaXwellFalstein/GitHub-Improvements/tree/master/Gists#Labels-and-Milestones)
+This works well with the next idea, [Labels and Milestones](https://github.com/MaXwellFalstein/GitHub-Improvements/tree/master/Gists#labels-and-milestones)
 
 ---
 
