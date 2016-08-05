@@ -1,6 +1,6 @@
 # Pull Requests
 
-# Automatic Inline Pull Requests from Original Repository Changes for Any Forks
+## Automatic Inline Pull Requests from Original Repository Changes for Any Forks
 
 A little switch or a setting enabled in .git would allow the user to set whether they would like their forked repository to be automatically kept inline with the changes in the original repository.
 

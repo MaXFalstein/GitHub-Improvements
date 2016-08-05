@@ -12,7 +12,7 @@ I have received emails from GitHub asking how I see this working. This is my fil
 
 I received an email from GitHub staff informing me GitHub would be very happy to listen / read any and all suggestions for improvements.
 
-GitHub staff told me they loved the example GitHub repository.
+GitHub staff told me they loved the [original example GitHub repository (GitHub Labels and Milestenes in JSON)](https://github.com/MaXwellFalstein/GitHub-Labels-Milestones-JSON).
 
 Because of the above, I created this repository to store all of my suggestions.
 
@@ -30,6 +30,6 @@ I would like to be sourced, [GitHub](https://github.com/MaXwellFalstein) account
 
 ---
 
-GitHub Improvements &copy; [MaX Falstein](https://twitter.com/MaX_MSD) @ [MaX Saxe Design](http://maxsaxedesign.co.uk) - July 2016
+GitHub Improvements &copy; [MaX Falstein](https://twitter.com/MaX_MSD) @ [MaX Saxe Design](http://maxsaxedesign.co.uk) - August 2016
 
 ---

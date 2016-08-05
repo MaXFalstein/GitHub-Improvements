@@ -1,6 +1,5 @@
-"user/repo-name": {
+"user": {
     "default": "true",
-    "toggled": "true"
 }
 
 "brewfactory/BrewCore": {
@@ -19,6 +18,11 @@
 }
 
 "TryGhost/Ghost": {
+    "default": "true",
+    "toggled": "true"
+}
+
+"twbs/bootstrap": {
     "default": "true",
     "toggled": "true"
 }

@@ -39,7 +39,7 @@ This could be done with a JSON file in settings for all repositories.
         "toggled": "true"
     }
 
-#### Examples
+###### Format Examples
 
     "FalsteinInvestmentInc/Gist": {
         "default": "true",
@@ -56,11 +56,35 @@ This could be done with a JSON file in settings for all repositories.
         "toggled": "true"
     }
 
+#### JSON Hierarchy
+
+    user default
+
+    public-user/repo-name
+
+    user/repo-name
+
+###### JSON Hierarchy Example
+
+    "user": {
+        "default": "true",
+    }
+
+    "TryGhost/Ghost": {
+        "default": "true",
+        "toggled": "true"
+    }
+
+    "MaXwellFalstein/bootstrap": {
+        "default": "true",
+        "toggled": "true"
+    }
+
 ---
 
 ### Github.com Pull Requests
 
-GitHub.com has ***Pull requests***, I think it should be ***Pull Requests***.
+In the repository navigation bar, GitHub.com has ***Pull requests***, I think it should be ***Pull Requests***.
 
 GitHub.com repository top line would look like:
 

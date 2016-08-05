@@ -20,6 +20,8 @@ I can add multiple files to a Gist, I can reference files in an Issue.
 
 I like the idea of using both Gists and Issues with a repository.
 
+For the above to work, Gists would have to be linkable to a repository and be created within a repository along with the current totally separate Gist system.
+
 GitHub.com repository top line would look like:
 
     | <> Code | (!) Issues | Gists | Pull Requests | Wiki | Pulse | Graphs | Settings |
@@ -32,6 +34,6 @@ This works well with the next idea, [Labels and Milestones](https://github.com/M
 
 I think there should be a setting in each Gist for it to be tied to Issues where it can be a Gist and an Issue, but synced across the two views.
 
-This feature should enable adding labels and milestones to the Gist.
+This feature should enable adding labels and milestones to the Gist, using the Gist for News and Updates.
 
 ---
