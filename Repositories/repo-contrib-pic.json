@@ -21,7 +21,7 @@
     "TryGhost/Ghost": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "twbs/bootstrap": {
         "default": "true",
@@ -81,17 +81,17 @@
     "MaXwellFalstein/browserify-aes": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/browserify-browserify": {
         "default": "true",
