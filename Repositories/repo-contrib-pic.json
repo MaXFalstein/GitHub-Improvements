@@ -1,22 +1,22 @@
 {
     "user": {
-    "default": "true",
-    }
+        "default": "true",
+    },
     
     "brewfactory/BrewCore": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "brewfactory/brewfactory.github.io": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "FreeCodeCamp/2016-new-coder-survey": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "TryGhost/Ghost": {
         "default": "true",
@@ -26,57 +26,57 @@
     "twbs/bootstrap": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/2016-new-coder-survey": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/alarm": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/angular-browserify": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/AngularJS-Atom": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/Armageddon.js": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/azure-quickstart-templates": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/bootstrap": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/braintree-encryption.js": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/BrewCore": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/brewfactory.github.io": {
         "default": "true",
         "toggled": "true"
-    }
+    },
     
     "MaXwellFalstein/browserify-aes": {
         "default": "true",
