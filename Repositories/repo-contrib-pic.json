@@ -1,6 +1,6 @@
 {
     "user": {
-        "default": "true",
+    "default": "true",
     }
     
     "brewfactory/BrewCore": {
