@@ -82,6 +82,16 @@ This could be done with a JSON file in settings for all repositories.
 
 ---
 
+### GitHub.com .md Troubles
+
+GitHub.com see .md as GCC Machine Description, which does use the .md file format.
+
+.md, along with .markdown, are the file formats for Markdown.
+
+I would like GitHub.com to distringuish between .md for Markdown and .md for GCC Machine Description.
+
+---
+
 ### Github.com Pull Requests
 
 In the repository navigation bar, GitHub.com has ***Pull requests***, I think it should be ***Pull Requests***.
@@ -89,7 +99,6 @@ In the repository navigation bar, GitHub.com has ***Pull requests***, I think it
 GitHub.com repository top line would look like:
 
 | [<> Code](https://github.com/MaXwellFalstein/GitHub-Improvements) | [(!) Issues](https://github.com/MaXwellFalstein/GitHub-Improvements/Issues) | [Gists](https://github.com/MaXwellFalstein/GitHub-Improvements/tree/master/Gists) | [Pull Requests](https://github.com/MaXwellFalstein/GitHub-Improvements/tree/master/Pull-Requests) | [Wiki](https://github.com/MaXwellFalstein/GitHub-Improvements/wiki) | [Pulse](https://github.com/MaXwellFalstein/GitHub-Improvements/pulse) | [Graphs](https://github.com/MaXwellFalstein/GitHub-Improvements/graphs/contributors) | [Settings](https://github.com/MaXwellFalstein/GitHub-Improvements/settings) |
-
 
 
 ---
