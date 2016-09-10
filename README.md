@@ -24,7 +24,7 @@ Please see the [LICENSE file](https://github.com/MaXwellFalstein/GitHub-Improvem
 
 GitHub has complete access to the source files and the suggestion pages.
 
-I am happy for them to use any and all files.
+I am happy for GitHub to use any and all files.
 
 I would like to be sourced, [GitHub](https://github.com/MaXwellFalstein) account and [Twitter](https://twitter.com/MaX_MSD) account would be nice. Thank you :D
 
