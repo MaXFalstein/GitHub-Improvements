@@ -1,14 +1,6 @@
-# GitHub Improvements from [MaX Falstein](https://twitter.com/MaX_MSD)
+# [GitHub](https://github.com) Improvements by [MaX Falstein](https://twitter.com/MaX_MSD)
 
-> ## *This repository is formed on top of my own repository, [GitHub Labels and Milestenes in JSON](https://github.com/MaXwellFalstein/GitHub-Labels-Milestones-JSON)*
-
----
-
-I emailed GitHub to suggest implementing a JSON file in the .github configuration files for setting up the labels.
-
-I have received emails from GitHub asking how I see this working. This is my file format suggestion for how it should look.
-
----
+This is the second generation repository. The original repository is [GitHub Labels and Milestenes in JSON](https://github.com/MaXwellFalstein/GitHub-Labels-Milestones-JSON).
 
 I received an email from GitHub staff informing me GitHub would be very happy to listen / read any and all suggestions for improvements.
 
@@ -16,20 +8,22 @@ GitHub staff told me they loved the [original example GitHub repository (GitHub 
 
 Because of the above, I created this repository to store all of my suggestions.
 
+Please feel free to fork and create pull requests to suggest more improvements.
+
 ---
 
 ## License
 
-Please see the [LICENSE file](https://github.com/MaXwellFalstein/GitHub-Improvements//blob/master/LICENSE)
+Please see the [LICENSE file](https://github.com/MaXwellFalstein/GitHub-Improvements/blob/master/LICENSE)
 
 GitHub has complete access to the source files and the suggestion pages.
 
 I am happy for GitHub to use any and all files.
 
-I would like to be sourced, [GitHub](https://github.com/MaXwellFalstein) account and [Twitter](https://twitter.com/MaX_MSD) account would be nice. Thank you :D
+Please correctly source my work, [GitHub](https://github.com/MaXwellFalstein) account and [Twitter](https://twitter.com/MaX_MSD) account is expected. Thank you :D
 
 ---
 
-GitHub Improvements &copy; [MaX Falstein](https://twitter.com/MaX_MSD) @ [MaX Saxe Design](http://maxsaxedesign.co.uk) - August 2016
+GitHub Improvements &copy; [MaX Falstein](https://twitter.com/MaX_MSD) @ [MaX Saxe Design](http://maxsaxedesign.co.uk) - October 2016
 
 ---
