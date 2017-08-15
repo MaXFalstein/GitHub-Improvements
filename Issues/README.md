@@ -1,6 +1,6 @@
 # Issues
 
-## GitHub Labels and Milestones in JSON
+## Labels and Milestones in JSON
 
 I emailed GitHub to suggest implementing a JSON file in the .github configuration files for setting up the labels.
 
@@ -23,6 +23,20 @@ I would like to have the issue searchbar included when I type in the title for a
 This will help make sure there are fewer duplicates of issues reported.
 
 It will make large repository owners lives much easier with large amounts of duplicate issues being reported.
+
+---
+
+## Comments
+
+### +1 Comments Auto Convert to a Reaction
+
+Many people in comments under issues or pull requests are annoyed by the number of people still using the age-old technique of adding +1 in support.
+
+GitHub has a feature of reacting with an emoji to the issue or pull request as a quick response mechanism.
+
+The existing +1 comments should be converted to a thumbs up response and the comment removed with an advisory note.
+
+GitHub should be able to stop +1 comments from occuring by adding a a function to the comment box which locates a lonely "+1" and stops the comment from being added with an overlay suggesting a reaction emoji to use.
 
 ---
 
