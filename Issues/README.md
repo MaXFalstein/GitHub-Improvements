@@ -26,6 +26,12 @@ It will make large repository owners lives much easier with large amounts of dup
 
 ---
 
+## Issue Markdown
+
+The version of Markdown used in Issues appears to be outdated.
+
+---
+
 ## Comments
 
 ### +1 Comments Auto Convert to a Reaction
